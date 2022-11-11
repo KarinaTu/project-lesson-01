@@ -10,6 +10,8 @@ public class Main {
        Client vasja = new Client("Vasja", 253.8, "3958476214");
         double difference = fedor.difference(stepan,vasja);
         System.out.println(difference);
+        System.out.println("You just got some amount!");
+
 
     }
 }
